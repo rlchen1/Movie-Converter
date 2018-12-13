@@ -8,6 +8,7 @@ The movie conversion is built entirely upon data structures and pointers. Struct
 
 The desired function to be applied determines the direction of images appended to the image list. When played, each frame will contain a slightly modified image so that cohesively the images form a smooth movie through the use of insertion sort. Currently, this program supports the hue and saturation filters, as well as playing the movie in reverse. 
 
+------------------------------------------------------------------------------------------------------------------------------------------
 Individual file functions:
 - DIPs files: contain the digital image processing functions (filters)
 - FileIO : load and save images
