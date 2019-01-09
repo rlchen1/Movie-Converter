@@ -1,13 +1,3 @@
-/*********************************************************************/
-/* Homework Assignment 5, for EECS 22, Fall 2017                     */
-/*                                                                   */
-/* Author: Tim Schmidt                                               */
-/* Date: 11/09/2017                                                  */
-/*                                                                   */
-/* Image.c: source file for basic image manipulations                */
-/*                                                                   */
-/*********************************************************************/
-
 #include <stdlib.h>
 #include <assert.h>
 #include "Image.h"
