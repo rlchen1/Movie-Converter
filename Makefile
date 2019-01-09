@@ -1,8 +1,3 @@
-# Makefile for hw4, EECS22 Fall 2017 fall 
-# Author: Huan Chen
-# Modified by: Mihnea Chirila
-# Modification: Ali Nickparsa 11/11/2018
-# Date:   11/01/2017
 CC     = gcc
 DEBUG  = -g -DDEBUG
 CFLAGS = -ansi -Wall -std=c99 -lm -c
