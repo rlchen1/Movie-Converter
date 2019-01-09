@@ -1,13 +1,3 @@
-/*********************************************************************/
-/* Homework Assignment 5, for EECS 22, Fall 2016                     */
-/*                                                                   */
-/* Author: Tim Schmidt                                               */
-/* Date: 11/13/2016                                                  */
-/*                                                                   */
-/* ImageList.h: header file for image list manipulations             */
-/*                                                                   */
-/*********************************************************************/
-
 #ifndef IMAGELIST_H
 #define IMAGELIST_H
 
